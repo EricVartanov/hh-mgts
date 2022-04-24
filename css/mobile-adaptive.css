@@ -1,0 +1,309 @@
+@media (max-width: 1339px) {
+    .idc-section {
+        max-width: 100%;
+        min-width: 100%;
+    }
+    .idc-container {
+        max-width: 930px;
+    }
+    .idc-h1 {
+        font-size: 50px;
+        line-height: 57px;
+    }
+    .idc-h2 {
+        font-size: 30px;
+        line-height: 34px;
+    }
+    .idc-text-1 {
+        font-size: 30px;
+        line-height: 34px;
+    }
+    .idc-text-1b {
+        font-size: 30px;
+        line-height: 34px;
+    }
+    /* ********head******* */
+    .idc-head .idc-content {
+        padding-left: 25px;
+        padding-right: 25px;
+        padding-bottom: 100px;
+    }
+    .idc-head .idc-h1 {
+        max-width: 681px;
+    }
+    .idc-logo {
+        width: 140px;
+        margin-top: 5px;
+    }
+    .idc-head .idc-text-1 {
+        max-width: 742px;
+    }
+    /* ********about******* */
+
+    .idc-about .idc-content {
+        padding-top: 44px;
+        padding-bottom: 44px;
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+    .idc-about .idc-h1 {
+        max-width: 493px;
+    }
+    .idc-about .idc-h1 + .idc-h1 {
+        max-width: 324px;
+    }
+    /* ********products******* */
+
+    .idc-products .idc-content {
+        padding-top: 25px;
+        padding-bottom: 45px;
+    }
+    .idc-products-block {
+        margin-top: 64px;
+    }
+    .idc-product {
+        width: 25%;
+    }
+    .idc-product-img {
+        width: 162px;
+    }
+    .idc-product .idc-text-1b {
+        margin-top: 25px;
+        width: 100%;
+    }
+
+    /* *****footer**** */
+    .idc-footer .idc-container {
+        padding-bottom: 70px;
+    }
+    .idc-btn {
+        width: 300px;
+        padding: 23px 0;
+    }
+    .idc-btn::before {
+        width: calc(100% + 24px);
+        height: calc(100% + 24px);
+    }
+}
+@media (max-width: 1019px) {
+    .idc-container {
+        max-width: 610px;
+    }
+    .idc-h1 {
+        font-size: 30px;
+        line-height: 34px;
+    }
+    .idc-h2 {
+        font-size: 20px;
+        line-height: 23px;
+    }
+    .idc-text-1 {
+        font-size: 20px;
+        line-height: 23px;
+    }
+    .idc-text-1b {
+        font-size: 20px;
+        line-height: 23px;
+    }
+    /* ********head******* */
+    .idc-head .idc-content {
+        padding: 40px 20px;
+        border-radius: 15px;
+    }
+    .idc-head .idc-h1 {
+        max-width: 408px;
+    }
+    .idc-logo {
+        width: 91px;
+        margin-top: 5px;
+    }
+    .idc-head .idc-text-1 {
+        max-width: 489px;
+        margin-top: 77px;
+    }
+    /* *****about**** */
+    .idc-about {
+        margin-top: 60px;
+    }
+    /* ********about******* */
+
+    .idc-about .idc-content {
+        padding-top: 33px;
+        padding-bottom: 33px;
+        padding-left: 20px;
+    }
+    .idc-about .idc-h1 {
+        max-width: 300px;
+    }
+    .idc-about .idc-h1 + .idc-h1 {
+        max-width: 193px;
+    }
+    /* ********products******* */
+    .idc-products {
+        margin-top: 52px;
+    }
+    .idc-products .idc-content {
+        padding-top: 25px;
+        padding-bottom: 70px;
+    }
+    .idc-products-block {
+        margin-top: 40px;
+    }
+    .idc-product-img {
+        width: 105px;
+    }
+    /* ********we******* */
+
+    .idc-we .idc-container {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .idc-bg-img {
+        margin-top: 20px;
+    }
+    .idc-htags {
+        margin-top: 50px;
+    }
+    /* *****footer**** */
+    .idc-footer .idc-container {
+        padding-bottom: 50px;
+    }
+    .idc-btn {
+        width: 197px;
+        padding: 12px 0;
+    }
+    .idc-btn::before {
+        width: calc(100% + 16px);
+        height: calc(100% + 16px);
+    }
+}
+@media (max-width: 699px) {
+    .idc-container {
+        max-width: 100%;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .idc-h1 {
+        /* font-size: 20px; */
+        /* line-height: 23px; */
+        font-size: 6.3vw;
+        line-height: 6.6vw;
+    }
+    .idc-h2 {
+        /* font-size: 14px; */
+        /* line-height: 16px; */
+        font-size: 4.5vw;
+        line-height: 5vw;
+    }
+    .idc-text-1 {
+        /* font-size: 14px; */
+        /* line-height: 16px; */
+        font-size: 4.5vw;
+        line-height: 5vw;
+    }
+    .idc-text-1b {
+        /* font-size: 14px; */
+        /* line-height: 16px; */
+        font-size: 4.5vw;
+        line-height: 5vw;
+    }
+    /* ********head******* */
+    .idc-head .idc-content {
+        padding-top: 30px;
+        padding-bottom: 40px;
+        padding-left: 10px;
+        padding-right: 0;
+        background-image: url(../img/head-mobile.png);
+    }
+    .idc-head .idc-h1 {
+        max-width: 50vw;
+    }
+    .idc-logo {
+        /* width: 67px; */
+        /* width: 21vw; */
+        width: 24vw;
+        margin-top: 2px;
+    }
+    .idc-head .idc-text-1 {
+        /* max-width: 198px; */
+        max-width: 62vw;
+        margin-top: 40px;
+    }
+    /* *****about**** */
+    .idc-about {
+        margin-top: 40px;
+    }
+
+    .idc-about .idc-content {
+        padding-top: 30px;
+        padding-bottom: 30px;
+        padding-left: 10px;
+        padding-right: 20px;
+        background-image: url(../img/about-mobile.png);
+    }
+    .idc-about .idc-h1 {
+        max-width: 59.5vw;
+    }
+    .idc-about .idc-h1 + .idc-h1 {
+        margin-top: 10px;
+        max-width: 40vw;
+    }
+    /* ********products******* */
+    .idc-products {
+        margin-top: 40px;
+    }
+    .idc-products .idc-content {
+        padding-top: 20px;
+        padding-bottom: 33px;
+        padding-left: 0;
+        padding-right: 0;
+        background-image: url(../img/products/products-mobile.png);
+    }
+
+    .idc-product {
+        width: 50%;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        margin-top: 5px;
+    }
+    .idc-products-block {
+        margin-top: 35px;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+    }
+    .idc-product-img {
+        width: 32vw;
+    }
+    .idc-product .idc-text-1b {
+        margin-top: 12px;
+        width: 80%;
+    }
+    /* ********we******* */
+
+    .idc-we .idc-container {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .idc-bg-img {
+        margin-top: 10px;
+    }
+    .idc-htags {
+        margin-top: 40px;
+    }
+    /* *****footer**** */
+
+    .idc-btn {
+        width: 100%;
+        padding: 10px 0;
+    }
+    .idc-btn::before {
+        width: calc(100% + 10px);
+        height: calc(100% + 10px);
+    }
+}
