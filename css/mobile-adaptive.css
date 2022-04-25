@@ -226,7 +226,7 @@
     }
     .idc-head .idc-text-1 {
         /* max-width: 198px; */
-        max-width: 62vw;
+        max-width: 64vw;
         margin-top: 40px;
     }
     /* *****about**** */
@@ -269,10 +269,15 @@
         -webkit-box-direction: normal;
         -ms-flex-direction: column;
         flex-direction: column;
-        margin-top: 5px;
+        margin-top: 25px;
     }
+    .idc-product:nth-child(1),
+    .idc-product:nth-child(2){
+        margin-top: 0;
+    }
+
     .idc-products-block {
-        margin-top: 35px;
+        margin-top: 40px;
         -webkit-box-align: center;
         -ms-flex-align: center;
         align-items: center;
